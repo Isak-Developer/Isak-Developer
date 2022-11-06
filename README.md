@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **learning Python**
 
-- 📝 I regularly write articles on [Codewithisak.blogspot.com](Codewithisak.blogspot.com)
+- 📝 I regularly write articles on [codewithisak.blogspot.com/](codewithisak.blogspot.com/)
 
 - 💬 Ask me about **Web Developer**
 
